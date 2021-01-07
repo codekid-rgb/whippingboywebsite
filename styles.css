@@ -1,0 +1,63 @@
+html {
+  background-color: rgb(222, 44, 0);
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-shadow: -3px 3px #0004ff;
+}
+header {
+  text-align: left;
+  font-size: 20px;
+  color: white;
+  text-shadow: -2px 2px #000000;
+}
+
+img {
+  width: 350px;
+  border: 20px dotted #0000ff;
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+  border: 20px dotted #0044ff;
+  width: 560px;
+  height: 315px;
+  max-width: 100%;
+}
+
+p {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  text-shadow: -2px 2px #000000;
+}
+
+h3 {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  text-shadow: -2px 2px #000000;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: rgb(76, 0, 0);
+}
+
+a:hover {
+  color: rgb(150, 255, 0);
+}
+
+div.centered {
+  text-align: center;
+}
